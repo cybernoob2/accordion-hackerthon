@@ -1,0 +1,3 @@
+Reminding myself of HTML, CSS and JAVASCRIPT before i completely forget they ever existed😅
+A small Accordion that will open/close one at a time, have active icons and a smooth animation,
+and have a light/ dark mode (just because i can😁)
